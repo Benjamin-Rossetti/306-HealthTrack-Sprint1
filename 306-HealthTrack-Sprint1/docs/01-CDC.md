@@ -1,4 +1,3 @@
-CDC-306-HealthTrack-Sprint1-
 Projet Scrum AppSheet – HealthTrack (Bien-être)
 1. Contexte du projet
 De nombreuses applications permettent aujourd’hui de suivre des habitudes
@@ -22,7 +21,6 @@ mobiles sans écrire de code.
 Avec AppSheet :
 les données sont stockées dans Google Sheets
 l’application est générée à partir de la structure des données
-CDC-306-HealthTrack-Sprint1- 1
 on configure des formulaires, des vues et des règles simples
 l’application est utilisable sur smartphone et navigateur
 Dans ce projet, AppSheet vous permet de vous concentrer sur :
@@ -49,7 +47,6 @@ Moment du repas (petit-déjeuner / midi / soir / snack)
 Catégorie (équilibré / correct / junk)
 Commentaire (facultatif)
 4.3 Journal Bien-être
-CDC-306-HealthTrack-Sprint1- 2
 L’utilisateur peut enregistrer :
 Sommeil : nombre d’heures
 Hydratation : nombre de verres d’eau (0 à 12)
@@ -77,7 +74,6 @@ autorisée, à condition de respecter les règles suivantes :
 demander des explications (AppSheet, Scrum, User Stories)
 obtenir de l’aide pour comprendre une formule
 ❌ Interdit
-CDC-306-HealthTrack-Sprint1- 3
 générer une application complète clé en main
 copier-coller une solution sans la comprendre
 utiliser une IA pour remplacer le travail de l’équipe
@@ -99,4 +95,3 @@ Sprint Rétrospective
 2. Product Backlog Sprint 1
 3. Démonstration de l’application
 4. Rétrospective de sprint (courte)
-CDC-306-HealthTrack-Sprint1- 4
